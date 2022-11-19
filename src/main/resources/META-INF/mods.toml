@@ -1,25 +1,25 @@
 modLoader="javafml"
-loaderVersion="[36,)"
+loaderVersion="[42,)"
 license="MIT"
 [[mods]]
 modId="recipe_fixer"
 version="0.7"
 displayName="Recipe Fixer"
 logoFile=""
-credits="by lu3arm"
-authors="lu3arm"
+credits="by Spitfox"
+authors="lu3arm, KreiseljustusGaming"
 description='''
 More recipes for Minecraft
 '''
 [[dependencies.recipe_fixer]]
     modId="forge"
     mandatory=true
-    versionRange="[36,)"
+    versionRange="[42,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.recipe_fixer]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.17,1.20)"
+    versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"

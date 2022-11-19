@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "2 2",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:kabel",
+    "count": 8
+  }
+}
