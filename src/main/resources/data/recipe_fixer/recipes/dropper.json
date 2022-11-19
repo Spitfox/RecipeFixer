@@ -1,0 +1,39 @@
+{
+  "group": "redstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "1": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "2": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "3": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "5": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "6": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "redstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blackstone"
+    },
+    "1": {
+      "item": "minecraft:blackstone"
+    },
+    "2": {
+      "item": "minecraft:blackstone"
+    },
+    "3": {
+      "item": "minecraft:blackstone"
+    },
+    "5": {
+      "item": "minecraft:blackstone"
+    },
+    "6": {
+      "item": "minecraft:blackstone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}
